@@ -1,2 +1,2 @@
 # Design-Thinking-Assignment
-This repository is to place design thinking assignment
+Case Study I to IV are answered and uploaded here.
